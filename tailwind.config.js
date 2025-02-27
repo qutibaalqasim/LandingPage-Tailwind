@@ -2,6 +2,7 @@
 module.exports = {
   content: [
     "./src/**/*.{html,js}", // Update to your project's file paths
+    "./index.html",
     "node_modules/flowbite/**/*.js", // Include Flowbite
   ],
   theme: {
